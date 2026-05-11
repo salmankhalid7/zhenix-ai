@@ -18,19 +18,14 @@
 
 ---
 
-## 🖼️ Screenshots
-
-```md
 ### Welcome Page
-![Welcome Page](https://github.com/salmankhalid7/zhenix-ai/blob/fb4992a5d4dcf46e5559c36f4d46f25745d55f98/Images/LandingPage.png)
+![Welcome Page](https://raw.githubusercontent.com/salmankhalid7/zhenix-ai/main/Images/LandingPage.png)
 
 ### Home Page
-![Home Page](https://github.com/salmankhalid7/zhenix-ai/blob/fb4992a5d4dcf46e5559c36f4d46f25745d55f98/Images/Home.png)
+![Home Page](https://raw.githubusercontent.com/salmankhalid7/zhenix-ai/main/Images/Home.png)
 
 ### AI Analysis Dashboard & Result
-![Result](https://github.com/salmankhalid7/zhenix-ai/blob/fb4992a5d4dcf46e5559c36f4d46f25745d55f98/Images/Dashboard.png)
-````
-
+![Result](https://raw.githubusercontent.com/salmankhalid7/zhenix-ai/main/Images/Dashboard.png)
 ## 🚀 Live Demo
 
 * 🌐 Frontend: [Live on Vercel](https://zhenixaifrontend-421m0kajs-salmankhalids-projects.vercel.app/)
