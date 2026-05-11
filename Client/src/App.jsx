@@ -1,6 +1,6 @@
 import ReviewPage from "./pages/ReviewPage";
 import { Routes, Route } from "react-router-dom";
-import Login from "./pages/Login";
+import Login from "./pages/login";
 import Register from "./pages/Register";
 import Dashboard from "./components/Dashboard";
 import ProtectedRoute from "./components/ProtectedRoute";

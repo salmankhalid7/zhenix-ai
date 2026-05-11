@@ -19,7 +19,7 @@ console.log(greet("Salman Khalid"));`);
       setLoading(true);
       setError("");
 
-      const res = await axios.post("http://localhost:8000/ai/get-response", {
+      const res = await axios.post("https://zhenix-3ve57tfa5-salmankhalids-projects.vercel.app/ai/get-response", {
         prompt: code.trim(),
       });
 
