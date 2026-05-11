@@ -6,16 +6,6 @@
 
 > 🚀 A full-stack AI-powered code review platform that helps developers write cleaner, safer, and optimized code using Google Gemini AI.
 
----
-
-## 📊 Project Status
-
-![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-![MERN Stack](https://img.shields.io/badge/stack-MERN-green?style=for-the-badge)
-![AI Powered](https://img.shields.io/badge/AI-Gemini-orange?style=for-the-badge)
-
----
 
 ## ✨ Features
 
@@ -31,25 +21,21 @@
 ## 🖼️ Screenshots
 
 ```md
+### Welcome Page
+![Welcome Page](https://github.com/salmankhalid7/zhenix-ai/blob/fb4992a5d4dcf46e5559c36f4d46f25745d55f98/Images/LandingPage.png)
+
 ### Home Page
-![Home](./assets/home.png)
+![Home Page](https://github.com/salmankhalid7/zhenix-ai/blob/fb4992a5d4dcf46e5559c36f4d46f25745d55f98/Images/Home.png)
 
-### Code Review Dashboard
-![Dashboard](./assets/dashboard.png)
-
-### AI Analysis Result
-![Result](./assets/result.png)
+### AI Analysis Dashboard & Result
+![Result](https://github.com/salmankhalid7/zhenix-ai/blob/fb4992a5d4dcf46e5559c36f4d46f25745d55f98/Images/Dashboard.png)
 ````
-
----
 
 ## 🚀 Live Demo
 
-* 🌐 Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-* ⚙️ Backend API: [https://your-backend.onrender.com](https://your-backend.onrender.com)
-* 📂 GitHub Repo: [https://github.com/salmankhalid7/zhenix-ai](https://github.com/salmankhalid7/zhenix-ai)
-
----
+* 🌐 Frontend: [Live on Vercel](https://zhenixaifrontend-421m0kajs-salmankhalids-projects.vercel.app/)
+* ⚙️ Backend API: [Backend Deployed](https://zhenix-ai.vercel.app/)
+* 📂 GitHub Repo: https://github.com/salmankhalid7/zhenix-ai
 
 ## 🧠 Tech Stack
 
